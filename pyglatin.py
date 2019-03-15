@@ -1,4 +1,4 @@
-#Below is a code that translates a word into pyglatin
+#Program translates a word into pyglatin
 
 pyg = 'ay'
 
